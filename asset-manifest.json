@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-task-6/static/css/main.77f39369.css",
+    "main.js": "/react-task-6/static/js/main.921d564f.js",
+    "static/js/787.5d1c69d9.chunk.js": "/react-task-6/static/js/787.5d1c69d9.chunk.js",
+    "static/media/education.gif": "/react-task-6/static/media/education.514841f260f5e4809383.gif",
+    "static/media/hello.gif": "/react-task-6/static/media/hello.ffb660e34116e4c61ce0.gif",
+    "static/media/portfolio.png": "/react-task-6/static/media/portfolio.30f491b3e0e8c8f1eb04.png",
+    "static/media/Amit.jpeg": "/react-task-6/static/media/Amit.f151b351b5aa4842dfee.jpeg",
+    "static/media/AMIT CV.pdf": "/react-task-6/static/media/AMIT CV.eb1788b6d57584fd4cca.pdf",
+    "static/media/temperature.jpeg": "/react-task-6/static/media/temperature.59298ad8d6607574042b.jpeg",
+    "index.html": "/react-task-6/index.html",
+    "main.77f39369.css.map": "/react-task-6/static/css/main.77f39369.css.map",
+    "main.921d564f.js.map": "/react-task-6/static/js/main.921d564f.js.map",
+    "787.5d1c69d9.chunk.js.map": "/react-task-6/static/js/787.5d1c69d9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77f39369.css",
+    "static/js/main.921d564f.js"
+  ]
+}
